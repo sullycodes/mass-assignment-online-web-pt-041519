@@ -7,3 +7,5 @@ class Person
   end
   
 end
+
+# att = {:name => "John", height: "6'1''", :weight => "190", t_shirt_size: "XL"}
